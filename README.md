@@ -36,7 +36,7 @@ RobloxNort es exclusivamente para uso local en Roblox Studio (modo de un solo ju
 
 **Captura de Pantalla**  
 **RobloxNort en Acción**  
-![Vista Previa](https://i.sooftcdn.com/screen/es/robloxnort.png)  
+![Vista Previa](https://phcorner.org/attachments/1695001413464_jqqicf_2_0-webp.2757093/)  
 
 **Contribuir**  
 Abre un *issue* para sugerencias. Las contribuciones deben cumplir con los Términos de GitHub y Roblox.  
